@@ -1,27 +1,15 @@
 # Beginner Coding Workshop
 
-This workshop will be in person in OKC on Saturday, July 16, 2022. We'll start at 1:00 pm and go until 5:00 pm. The exact location has not been determined yet.
+This project was made after I was asked by Kimberly Collins of Techlahoma to make a simple site for their OKC Workshop. I used simple HTML/CSS3 to create this site to allow it to also be used as a sample for teaching about web development. It is now currently kept up to date and updated by Kimberly.
 
-[freeCodeCamp Curriculum](https://www.freecodecamp.org/learn/responsive-web-design/)
-* We'll start with the Basic HTML and Basic CSS sections on freeCodeCamp and get as far as we can!
+Link to project: 
 
-## Participants
+How It's Made:
+Tech used: HTML, CSS3
 
-Our audience is adults learning about coding with HTML and CSS for the first time. Coaches will be experienced developers. 
+The project was a very simple one as it only used HTML and CSS3. I used best web practices and also made it mobile first using media queries. 
 
-We expect to have about 20 attendees, a facilitator, 7-8 coaches, and 1-2 general volunteers. Members of underrepresented groups are highly encouraged to apply and attend.
+Lessons Learned:
+This Project solidified my understandings of HTML, CSS3 and media queries to create websites that follow industry standards.
 
-[Attendee Application](https://docs.google.com/forms/d/e/1FAIpQLSeb4bYLGwhJ3mVwyR1k2Lb3oSBWj78aKzbTE7Rs4ec99GQSIA/viewform)
-* We'll review applications as we receive them, contact you with any follow-up questions, and let you know whether your application is accepted as soon as we can.
-
-[Coach Sign-Up](https://docs.google.com/forms/d/e/1FAIpQLSfQII7GAMlG-XgO5PefGD_bLuqxQ76MZXY9K4Rm8XDVDZMA5w/viewform)
-* We need some coaches for this workshop! Coaching is pretty low-key and low-stress.
-
-## Sponsors
-
-We’re looking for sponsors to cover the costs for this workshop so that it’s free for community members to attend. 
-
-[Sponsorship Prospectus](https://docs.google.com/document/d/1cb-JiSC0PUUhCimi4PpqfZhoYqw_ryYgoegZfWyMcZY/edit)
-
-* [Canyon Trail](https://canyon-trail.com/)
 
